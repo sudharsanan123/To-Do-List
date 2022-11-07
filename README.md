@@ -7,3 +7,4 @@ The user's to-do list is stored in the local storage, so when user refreshes the
 @sudharsanan 123
 
 
+![Screenshot 2022-11-08 000417](https://user-images.githubusercontent.com/109327528/200388138-694c4c97-3757-43f8-b0ed-21330cd1c56a.png)
